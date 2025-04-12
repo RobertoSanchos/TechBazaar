@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">TechBazaar</string>
+    <string name="username">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="regist">Regisztráció</string>
+    <string name="logo">tb_logo</string>
+    <string name="email">E-mail cím</string>
+    <string name="password_again">Jelszó újra</string>
+    <string name="back">Mégse</string>
+    <string name="fail_sign_in">Sikertelen belépés!</string>
+    <string name="Missing_field">Töltsd ki az összes mezőt!</string>
+    <string name="search">Keresés</string>
+    <string name="cart">Bevásárlókosár</string>
+    <string name="settings">Beállítások</string>
+    <string name="exit">Kijelentkezés</string>
+    <string name="notification">Értesítések</string>
+    <string name="favorite">Kedvencek</string>
+    <string name="remember_password">Jelszó megjegyzése</string>
+    <string name="login_with_guest">Lépj be vendégként</string>
+    <string name="highlighted_home">Kiemelt ajánlataink</string>
+    <string name="back_to_home">Vissza a főoldalra</string>
+    <string name="upload_later">Termékek feltöltése később!</string>
+    <string name="higlighted">Kiemelt ajánlataink</string>
+    <string name="clater">Kosár tartalmának listázása még nem elérhető!</string>
+    <string name="flater">Kedvencek listázása még nem elérhető!</string>
+    <string name="slater">Beállítások még nem elérhetőek!</string>
+    <string name="accept_afsz">Elfogadom az Általános Szerződési Feltételeket</string>
+    <string name="accept_any">Elfogadom az Adatvédelmi nyilatkozatot</string>
+    <string name="subsrcibe">Feliratkozok a hírlevélre</string>
+    <string name="index">Kezdőlap</string>
+    <string name="forgot_password">Elfelejtetted a jelszavad?</string>
+    <string name="email_req">Add meg az Email címed</string>
+    <string name="email_input_hint">valami@valami.hu</string>
+    <string name="Send_fp_email">Visszaállítás</string>
+    <string name="cancel_fp_email">Mégse</string>
+
+    <string-array name="items_names">
+        <item>Core i5–10400F</item>
+        <item>Core i7–12700K</item>
+        <item>Asus ROG STRIX B550-F GAMING</item>
+        <item>ASRock B450 Pro4</item>
+        <item>SSD 2.5" Samsung 870 Evo 500GB</item>
+        <item>Kingston SSDNow KC400 1 TB</item>
+        <item>CORSAIR iCUE 5000T RGB TG fekete</item>
+        <item>Cooler Master MasterCase H500M</item>
+    </string-array>
+
+    <string-array name="category_items_name">
+        <item>Alaplap</item>
+        <item>Processzor</item>
+        <item>Memória</item>
+        <item>Videokártya</item>
+        <item>Monitor</item>
+        <item>SSD/HDD</item>
+        <item>Tápegység</item>
+        <item>Számítógépház</item>
+        <item>Hűtés</item>
+        <item>Nyomtató/szkenner</item>
+        <item>Billentyűzet/egér</item>
+        <item>Hangszóró</item>
+        <item>Kábel</item>
+    </string-array>
+
+    <string-array name="items_description">
+        <item>Órajele: 2,9 GHz \nFoglalat: Intel 1200\nMagok száma: 6\nMax. teljesítmény: 4,3 GHz…</item>
+        <item>Órajele: 2,7 GHz \nFoglalat: Intel 1700 \nMagok száma: 12\nMax. teljesítmény: 5 GHz…</item>
+        <item>CPU Foglalat: AM4 \nChipset: AMD B550 \nMemória típusa: DDR4 \nMax. memória mérete: 128 GB…</item>
+        <item>\nCPU Foglalat: AM4 \nChipset: AMD B450 \nMemória típusa: DDR4 \nMax. memória mérete: 64 GB…</item>
+        <item>Kialakítás: 2,5 inch \nKapacitás: 500 GB \nMaximális olvasási sebesség: 560 MB/s \nMaximális írási sebesség: 530 MB/s…</item>
+        <item>Kialakítás: 2,5 inch \nKapacitás: 1000 GB \nMaximális olvasási sebesség: 550 MB/s \nMaximális írási sebesség: 530 MB/s…</item>
+        <item>Típus: MidiTower \nSzélesség: 251 mm \nMagasság: 559 mm \nMélység: 528 mm Tömeg 17080 g…</item>
+        <item>Típus: MidiTower \nSzélesség: 248 mm \nMagasság: 546 mm \nMélység: 544 mm Tömeg 14200 g…</item>
+    </string-array>
+
+    <array name="items_images">
+        <item>@drawable/highlighted_i5_10400f</item>
+        <item>@drawable/highlighted_i7_12700k</item>
+        <item>@drawable/highlighted_asus_b550f</item>
+        <item>@drawable/highlighted_asrock_b450_pro4</item>
+        <item>@drawable/highlighted_samsung_870_evo</item>
+        <item>@drawable/highlighted_kingstone_kc_400</item>
+        <item>@drawable/highlighted_corsair_case</item>
+        <item>@drawable/highlighted_cooler_master_case</item>
+    </array>
+
+    <array name="category_images">
+        <item>@drawable/category_motherboard</item>
+        <item>@drawable/category_cpu</item>
+        <item>@drawable/category_memory</item>
+        <item>@drawable/category_vga</item>
+        <item>@drawable/category_monitor</item>
+        <item>@drawable/category_ssd</item>
+        <item>@drawable/category_powers</item>
+        <item>@drawable/category_cases</item>
+        <item>@drawable/category_cooler</item>
+        <item>@drawable/category_printer</item>
+        <item>@drawable/category_keyboardmouse</item>
+        <item>@drawable/category_speaker</item>
+        <item>@drawable/category_cabel</item>
+    </array>
+
+    <array name="items_prices">
+        <item>45 224 Ft</item>
+        <item>122 443 Ft</item>
+        <item>39 333 Ft</item>
+        <item>29 122 Ft</item>
+        <item>18 566 Ft</item>
+        <item>27 688 Ft</item>
+        <item>88 655 Ft</item>
+        <item>64 442 Ft</item>
+    </array>
+
+    <array name="items_rates">
+        <item>3</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3.5</item>
+        <item>3.5</item>
+    </array>
+
+</resources>
